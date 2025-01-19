@@ -4,7 +4,7 @@ import pandas as pd
 from config import EvaluationConfig
 from mapper import Mapper
 from data_processing import apply_mapping, build_prompt_data
-from model_inference import compute_label_logprobs_batch_mc_optimized
+from model_inference import compute_label_logprobs_batch_mc
 from metrics import compute_instance_metrics
 
 from transformers import (
