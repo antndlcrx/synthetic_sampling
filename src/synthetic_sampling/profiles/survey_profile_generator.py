@@ -1,4 +1,3 @@
-# synthetic_sampling/src/synthetic_sampling/survey_profile_generator.py
 
 import random
 from typing import Any, Dict, List, Optional, Tuple
